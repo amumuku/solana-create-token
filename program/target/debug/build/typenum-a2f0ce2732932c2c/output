@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/apple/Desktop/工具手册/开源代码收集/solana开发者训练营的代码/w6-exerciese/program/target/debug/build/typenum-a2f0ce2732932c2c/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/apple/Desktop/工具手册/开源代码收集/solana开发者训练营的代码/w6-exerciese/program/target/debug/build/typenum-a2f0ce2732932c2c/out/op.rs
