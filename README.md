@@ -1,4 +1,6 @@
 # solana-create-token
+
+#https://www.solanazh.com/course/6-5
 创建token练习合约
 
 扩充 Token 合约，为 Token 合约增加 Meta 信息，如
